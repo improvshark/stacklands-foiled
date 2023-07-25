@@ -1,3 +1,4 @@
-# Stacklands Mod Template
+# Foiled
+## A stackland mod.
 
-For information about using the template, see the Modding Wiki
+This mod should make all the cards foils. (Hello World)
